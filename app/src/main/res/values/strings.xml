@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="error_no_internet_connection">No internet connection</string>
+    <string name="error_fetch_posts">
+        There was some problem fetching the posts. Please check and try again
+    </string>
+    <string name="error_fetch_posts_reason">Failed to fetch posts due to: %s</string>
+</resources>
